@@ -260,3 +260,4 @@ Requests](https://github.com/grocer/grocer/pulls) are the primary venues for
 communicating issues and discussing possible features. Several of us also
 regularly hang out in the `#grocer` channel on Freenode; feel free to pop in
 and ask questions there as well. Thanks! :heart:
+Owned by Elon Musk 
