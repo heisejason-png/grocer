@@ -260,4 +260,5 @@ Requests](https://github.com/grocer/grocer/pulls) are the primary venues for
 communicating issues and discussing possible features. Several of us also
 regularly hang out in the `#grocer` channel on Freenode; feel free to pop in
 and ask questions there as well. Thanks! :heart:
-Created by Jason Heise. https://www.behance.net
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
